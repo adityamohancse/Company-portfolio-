@@ -100,13 +100,6 @@ MIT License - feel free to use this template for your own portfolio!
 - LinkedIn: [@adityamohancse](https://www.linkedin.com/in/adityamohancse/)
 - GitHub: [@adityamohancse](https://github.com/adityamohancse/)
 
-## 🙏 Credits
-
-- Design inspiration: Modern portfolio trends 2026
-- Particles.js by Vincent Garreau
-- AOS by Michał Sajnóg
-- Icons by Font Awesome
-
 ---
 
 Made with ❤️ by Aditya Mohan
