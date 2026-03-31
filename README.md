@@ -17,7 +17,7 @@ Modern, responsive portfolio website built with HTML, CSS, and JavaScript featur
 ## 🚀 Quick Start
 
 ### View Live Demo
-Visit: [Your GitHub Pages URL will be here]
+Visit: [https://adityamohancse.github.io/Company-portfolio-/]
 
 ### Local Development
 1. Clone the repository:
@@ -89,19 +89,6 @@ Edit CSS custom properties in `style.css`:
 - GitHub: [adityamohancse](https://github.com/adityamohancse/)
 - Instagram: [@__aditya.mohan](https://www.instagram.com/__aditya.mohan/)
 
-## 🌐 Deployment
-
-### GitHub Pages (Recommended)
-1. Push code to GitHub
-2. Go to repository Settings → Pages
-3. Select branch: `main`
-4. Click Save
-5. Site will be live at: `https://yourusername.github.io/repository-name/`
-
-### Other Platforms
-- **Netlify**: Drag & drop or connect GitHub repo
-- **Vercel**: Import from GitHub
-- **000webhost**: Upload via FTP/File Manager
 
 ## 📄 License
 
@@ -115,7 +102,7 @@ MIT License - feel free to use this template for your own portfolio!
 
 ## 🙏 Credits
 
-- Design inspiration: Modern portfolio trends 2025
+- Design inspiration: Modern portfolio trends 2026
 - Particles.js by Vincent Garreau
 - AOS by Michał Sajnóg
 - Icons by Font Awesome
