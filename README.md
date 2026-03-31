@@ -102,4 +102,4 @@ MIT License - feel free to use this template for your own portfolio!
 
 ---
 
-Made with ❤️ by Aditya Mohan
+Made with ❤️ by Aditya Mohan Jha
