@@ -4,7 +4,7 @@ Modern, responsive portfolio website built with HTML, CSS, and JavaScript featur
 
 ## 🌟 Features
 
-- ✨ Modern 2025 design with gradient effects
+- ✨ Modern 2026 design with gradient effects
 - 🎨 Animated particle background
 - 📱 Fully responsive (mobile, tablet, desktop)
 - 🎯 Smooth scroll animations (AOS)
